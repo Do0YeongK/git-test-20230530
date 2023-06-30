@@ -8,3 +8,4 @@ helloGit
 helloGit
 helloGit
 helloGit
+브랜치A에서 작업한 내용
